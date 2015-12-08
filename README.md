@@ -1,1 +1,1 @@
-Taller de creación de un formulario con un estilo Material Design, con HTML, CSS y JS. El CSS será preprocesado mediante SASS
+Taller de creación de un formulario con un estilo Material Design, con HTML, CSS y JS. El CSS será preprocesado mediante SASS.
